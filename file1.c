@@ -2,5 +2,5 @@
 
 extern int functie() {
 	printf("PLSAPLSVPLS\n");
-	return 12;
+	return 13;
 }

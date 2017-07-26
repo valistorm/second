@@ -2,5 +2,5 @@
 
 static int main() {
 	poll();
-	return 0;
+	return 11;
 }
